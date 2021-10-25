@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG Concepts">
+	<listeners>
+		<listener class-name="utilities.TestNGListeners"></listener>
+	</listeners>
+
+	<parameter name="email" value="eagles@tekschool.us" />
+	<parameter name="pass" value="eagles" />
+	<!--  test name="Parallel Exectuin" parallel = "methods" thread-count = "9">-->
+	<test name="DataDrivenTesting">
+		<classes>
+			<class name = "tests.HotelLoginTest"/>
+
+		</classes>
+	</test>
+</suite>
