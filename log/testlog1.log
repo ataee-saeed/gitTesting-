@@ -1,0 +1,39 @@
+2021-10-25 19:39:19,507 [main] INFO logger_File - Start of Execution
+2021-10-25 19:39:26,553 [main] INFO logger_File - User lunched Hotel website
+2021-10-25 19:39:26,554 [main] INFO logger_File - Test Execution Started
+2021-10-25 19:39:37,227 [main] INFO logger_File - Test was passed successfully
+2021-10-25 19:39:37,228 [main] INFO logger_File - method name: loginTest
+2021-10-25 19:39:37,874 [main] INFO logger_File - End of Execution
+2021-10-25 19:41:47,758 [main] INFO logger_File - Start of Execution
+2021-10-25 19:41:53,287 [main] INFO logger_File - User lunched Hotel website
+2021-10-25 19:41:53,288 [main] INFO logger_File - Test Execution Started
+2021-10-25 19:42:03,603 [main] INFO logger_File - Test was passed successfully
+2021-10-25 19:42:03,609 [main] INFO logger_File - method name: loginTest
+2021-10-25 19:42:04,238 [main] INFO logger_File - End of Execution
+2021-10-25 20:35:26,980 [main] INFO logger_File - Start of Execution
+2021-10-25 20:35:27,000 [main] INFO logger_File - Test Execution Started
+2021-10-25 20:35:27,011 [main] INFO logger_File - Test was passed successfully
+2021-10-25 20:35:27,011 [main] INFO logger_File - method name: testOne
+2021-10-25 20:35:27,020 [main] INFO logger_File - Test Execution Started
+2021-10-25 20:35:27,022 [main] INFO logger_File - Test was passed successfully
+2021-10-25 20:35:27,022 [main] INFO logger_File - method name: testTwo
+2021-10-25 20:35:27,037 [main] INFO logger_File - End of Execution
+2021-10-25 21:12:31,152 [main] INFO logger_File - Start of Execution
+2021-10-25 21:12:31,174 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,185 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,186 [main] INFO logger_File - method name: testFive
+2021-10-25 21:12:31,194 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,195 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,195 [main] INFO logger_File - method name: testFour
+2021-10-25 21:12:31,197 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,199 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,199 [main] INFO logger_File - method name: testSix
+2021-10-25 21:12:31,203 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,204 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,205 [main] INFO logger_File - method name: testThree
+2021-10-25 21:12:31,221 [main] INFO logger_File - End of Execution
+2021-10-25 21:21:05,351 [main] INFO logger_File - Start of Execution
+2021-10-25 21:21:05,373 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:21:05,386 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:21:05,386 [main] INFO logger_File - method name: test
+2021-10-25 21:21:05,404 [main] INFO logger_File - End of Execution

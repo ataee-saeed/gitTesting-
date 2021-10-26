@@ -6,13 +6,17 @@
 		<listener class-name="utilities.TestNGListeners"></listener>
 	</listeners>
 
-	<parameter name="email" value="eagles@tekschool.us" />
-	<parameter name="pass" value="eagles" />
-	<!--  test name="Parallel Exectuin" parallel = "methods" thread-count = "9">-->
+	<parameter name="firstName" value="Shaiq" />
+	<parameter name="lastName" value="Darwish" />
+	<!-- test name="Parallel Exectuin" parallel = "methods" thread-count = "9"> -->
 	<test name="DataDrivenTesting">
+		<!--  groups>
+			<run>
+				<include name="regression"></include>
+			</run>
+		</groups>-->
 		<classes>
-			<class name = "tests.HotelLoginTest"/>
-
+			<class name="testNG.TestNGParameters" />
 		</classes>
 	</test>
 </suite>

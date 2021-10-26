@@ -1,0 +1,39 @@
+2021-10-25 19:39:19,507 - logger_File -INFO - Start of Execution
+2021-10-25 19:39:26,553 - logger_File -INFO - User lunched Hotel website
+2021-10-25 19:39:26,554 - logger_File -INFO - Test Execution Started
+2021-10-25 19:39:37,227 - logger_File -INFO - Test was passed successfully
+2021-10-25 19:39:37,228 - logger_File -INFO - method name: loginTest
+2021-10-25 19:39:37,874 - logger_File -INFO - End of Execution
+2021-10-25 19:41:47,758 - logger_File -INFO - Start of Execution
+2021-10-25 19:41:53,287 - logger_File -INFO - User lunched Hotel website
+2021-10-25 19:41:53,288 - logger_File -INFO - Test Execution Started
+2021-10-25 19:42:03,603 - logger_File -INFO - Test was passed successfully
+2021-10-25 19:42:03,609 - logger_File -INFO - method name: loginTest
+2021-10-25 19:42:04,238 - logger_File -INFO - End of Execution
+2021-10-25 20:35:26,980 - logger_File -INFO - Start of Execution
+2021-10-25 20:35:27,000 - logger_File -INFO - Test Execution Started
+2021-10-25 20:35:27,011 - logger_File -INFO - Test was passed successfully
+2021-10-25 20:35:27,011 - logger_File -INFO - method name: testOne
+2021-10-25 20:35:27,020 - logger_File -INFO - Test Execution Started
+2021-10-25 20:35:27,022 - logger_File -INFO - Test was passed successfully
+2021-10-25 20:35:27,022 - logger_File -INFO - method name: testTwo
+2021-10-25 20:35:27,037 - logger_File -INFO - End of Execution
+2021-10-25 21:12:31,152 - logger_File -INFO - Start of Execution
+2021-10-25 21:12:31,174 - logger_File -INFO - Test Execution Started
+2021-10-25 21:12:31,185 - logger_File -INFO - Test was passed successfully
+2021-10-25 21:12:31,186 - logger_File -INFO - method name: testFive
+2021-10-25 21:12:31,194 - logger_File -INFO - Test Execution Started
+2021-10-25 21:12:31,195 - logger_File -INFO - Test was passed successfully
+2021-10-25 21:12:31,195 - logger_File -INFO - method name: testFour
+2021-10-25 21:12:31,197 - logger_File -INFO - Test Execution Started
+2021-10-25 21:12:31,199 - logger_File -INFO - Test was passed successfully
+2021-10-25 21:12:31,199 - logger_File -INFO - method name: testSix
+2021-10-25 21:12:31,203 - logger_File -INFO - Test Execution Started
+2021-10-25 21:12:31,204 - logger_File -INFO - Test was passed successfully
+2021-10-25 21:12:31,205 - logger_File -INFO - method name: testThree
+2021-10-25 21:12:31,221 - logger_File -INFO - End of Execution
+2021-10-25 21:21:05,351 - logger_File -INFO - Start of Execution
+2021-10-25 21:21:05,373 - logger_File -INFO - Test Execution Started
+2021-10-25 21:21:05,386 - logger_File -INFO - Test was passed successfully
+2021-10-25 21:21:05,386 - logger_File -INFO - method name: test
+2021-10-25 21:21:05,404 - logger_File -INFO - End of Execution
