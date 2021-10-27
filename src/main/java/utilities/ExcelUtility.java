@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
+import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
@@ -22,6 +23,7 @@ public class ExcelUtility {
 			FileInputStream file = new FileInputStream(pathToExcelfile);
 			book = WorkbookFactory.create(file);
 			sheet = book.getSheet(sheetName);
+			DataFormatter formatter = new DataFormatter(); // this line of code will format data type 
 
 			// This line of code will read all values in excel till last row and last column
 			int rowSize = sheet.getLastRowNum(), colSize=sheet.getRow(0).getLastCellNum();
@@ -31,7 +33,9 @@ public class ExcelUtility {
 			for (int row = 0; row < rowSize; row++) {
 				for (int col = 0; col < colSize; col++) {
 				//	System.out.print(sheet.getRow(row).getCell(col).toString() + " ");
-					data[row][col] = sheet.getRow(row).getCell(col).getStringCellValue();
+					 String value =formatter.formatCellValue(sheet.getRow(row).getCell(col));
+					data[row][col] = value;
+					
 				}
 
 			}
@@ -42,6 +46,8 @@ public class ExcelUtility {
 		} catch (InvalidFormatException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
+			e.printStackTrace();
+		} catch(NullPointerException e) {
 			e.printStackTrace();
 		}
 		

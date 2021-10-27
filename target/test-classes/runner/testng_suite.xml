@@ -6,8 +6,10 @@
 		<listener class-name="utilities.TestNGListeners"></listener>
 	</listeners>
 
-	<parameter name="firstName" value="Shaiq" />
-	<parameter name="lastName" value="Darwish" />
+	<parameter name="valueOne" value="TekSchool" />
+	<parameter name="valueTwo" value="SDET" />
+	<parameter name="valueThree" value="I will make it" />
+	<parameter name="valueFour" value="My Offer waiting for me" />
 	<!-- test name="Parallel Exectuin" parallel = "methods" thread-count = "9"> -->
 	<test name="DataDrivenTesting">
 		<!--  groups>
@@ -16,7 +18,7 @@
 			</run>
 		</groups>-->
 		<classes>
-			<class name="testNG.TestNGParameters" />
+			<class name="testNG.LoginTest" />
 		</classes>
 	</test>
 </suite>
