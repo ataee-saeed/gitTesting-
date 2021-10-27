@@ -157,3 +157,47 @@
 2021-10-26 20:10:34,317 [main] INFO logger_File - method name: testLogin
 2021-10-26 20:10:34,938 [main] INFO logger_File - browser closed
 2021-10-26 20:10:34,953 [main] INFO logger_File - End of Execution
+2021-10-26 21:37:39,157 [main] INFO logger_File - Start of Execution
+2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:37:46,389 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:37:46,390 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:37:46,401 [main] INFO logger_File - End of Execution
+2021-10-26 21:39:46,845 [main] INFO logger_File - Start of Execution
+2021-10-26 21:39:46,868 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:39:46,869 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:39:52,018 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:39:52,019 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:39:52,609 [main] INFO logger_File - End of Execution
+2021-10-26 21:41:15,857 [main] INFO logger_File - Start of Execution
+2021-10-26 21:41:15,883 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:41:15,884 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:41:15,885 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
+2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:41:20,286 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:20,287 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:41:26,304 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:26,305 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:41:26,316 [main] INFO logger_File - End of Execution
+2021-10-26 21:44:42,786 [main] INFO logger_File - Start of Execution
+2021-10-26 21:44:42,810 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:44:42,811 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:44:42,812 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
+2021-10-26 21:44:48,421 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
+2021-10-26 21:44:48,422 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
+2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
+2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
+2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
+2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
+2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:44:58,412 [main] INFO logger_File - End of Execution

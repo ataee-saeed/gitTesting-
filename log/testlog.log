@@ -157,3 +157,47 @@
 2021-10-26 20:10:34,317 - logger_File -INFO - method name: testLogin
 2021-10-26 20:10:34,938 - logger_File -INFO - browser closed
 2021-10-26 20:10:34,953 - logger_File -INFO - End of Execution
+2021-10-26 21:37:39,157 - logger_File -INFO - Start of Execution
+2021-10-26 21:37:39,183 - logger_File -INFO - Test Execution Started
+2021-10-26 21:37:39,183 - logger_File -INFO - Test Execution Started
+2021-10-26 21:37:44,831 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:37:44,831 - logger_File -INFO - method name: testTwo
+2021-10-26 21:37:46,389 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:37:46,390 - logger_File -INFO - method name: testOne
+2021-10-26 21:37:46,401 - logger_File -INFO - End of Execution
+2021-10-26 21:39:46,845 - logger_File -INFO - Start of Execution
+2021-10-26 21:39:46,868 - logger_File -INFO - Test Execution Started
+2021-10-26 21:39:46,869 - logger_File -INFO - Test Execution Started
+2021-10-26 21:39:52,018 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:39:52,019 - logger_File -INFO - method name: testTwo
+2021-10-26 21:39:52,596 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:39:52,596 - logger_File -INFO - method name: testOne
+2021-10-26 21:39:52,609 - logger_File -INFO - End of Execution
+2021-10-26 21:41:15,857 - logger_File -INFO - Start of Execution
+2021-10-26 21:41:15,883 - logger_File -INFO - Test Execution Started
+2021-10-26 21:41:15,884 - logger_File -INFO - Test Execution Started
+2021-10-26 21:41:15,885 - logger_File -INFO - Test Execution Started
+2021-10-26 21:41:20,262 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:41:20,262 - logger_File -INFO - method name: testOne
+2021-10-26 21:41:20,286 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:41:20,287 - logger_File -INFO - method name: testTwo
+2021-10-26 21:41:26,304 - logger_File -INFO - Test was passed successfully
+2021-10-26 21:41:26,305 - logger_File -INFO - method name: testthree
+2021-10-26 21:41:26,316 - logger_File -INFO - End of Execution
+2021-10-26 21:44:42,786 - logger_File -INFO - Start of Execution
+2021-10-26 21:44:42,810 - logger_File -INFO - Test Execution Started
+2021-10-26 21:44:42,811 - logger_File -INFO - Test Execution Started
+2021-10-26 21:44:42,812 - logger_File -INFO - Test Execution Started
+2021-10-26 21:44:48,421 - logger_File -INFO - Test was failed
+2021-10-26 21:44:48,422 - logger_File -INFO - method name: testOne
+2021-10-26 21:44:48,423 - logger_File -INFO - Test was failed
+2021-10-26 21:44:48,423 - logger_File -INFO - method name: testOne
+2021-10-26 21:44:51,328 - logger_File -INFO - Test was failed
+2021-10-26 21:44:51,328 - logger_File -INFO - method name: testTwo
+2021-10-26 21:44:51,329 - logger_File -INFO - Test was failed
+2021-10-26 21:44:51,329 - logger_File -INFO - method name: testTwo
+2021-10-26 21:44:58,393 - logger_File -INFO - Test was failed
+2021-10-26 21:44:58,393 - logger_File -INFO - method name: testthree
+2021-10-26 21:44:58,394 - logger_File -INFO - Test was failed
+2021-10-26 21:44:58,394 - logger_File -INFO - method name: testthree
+2021-10-26 21:44:58,412 - logger_File -INFO - End of Execution
